@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="RTUIflow">dbd3b61c4f190300f9c4eb118110c7f7</application>
+        <filter/>
+        <name>RTUIflows</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_161164_rtuiv01.rtuiflow_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-15 13:16:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bd3b61c4f190300f9c4eb118110c7f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RTUIflows</sys_name>
+        <sys_package display_value="RTUIv01" source="x_161164_rtuiv01">e3c172d84f190300f9c4eb118110c785</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RTUIv01">e3c172d84f190300f9c4eb118110c785</sys_scope>
+        <sys_update_name>sys_ui_module_5bd3b61c4f190300f9c4eb118110c7f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-15 13:16:38</sys_updated_on>
+        <table>x_161164_rtuiv01_rtuiflow</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
